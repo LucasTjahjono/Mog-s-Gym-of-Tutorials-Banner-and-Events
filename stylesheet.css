@@ -1,12 +1,14 @@
 body {
-    background-color: red;
-    margin-right: 20%;
-    margin-left: 20%;
+    padding: 0;
+    background-color: green;
+    margin-right: 18%;
+    margin-left: 18%;
     border-width: 2px;
     border-style: solid;
     border-color: black;
     padding-left: 10px;
     padding-right: 10px;
+
 }
 
 h1 {
@@ -16,7 +18,8 @@ h1 {
     border-bottom-color: black;
 }
 
+
 .imagebanner {
-    background-image: url("images/background-combat-basics.webp");
-    padding: 350px 0;
+    background-image: url("images/Protagonistdraw2.jpg");
+    padding: 265px 0;
 }
